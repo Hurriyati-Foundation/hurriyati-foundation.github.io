@@ -41,5 +41,4 @@ export default defineConfig({
     ]
   },
 
-  base: "/hurriyati-foundation.github.io/"
 })
