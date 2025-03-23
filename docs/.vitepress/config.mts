@@ -6,6 +6,7 @@ export default defineConfig({
   description: "A list for Muslim-owned alternatives for everyday apps and websites.",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    logo: '/logo.ico',
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Site Guide', link: '/Guide' }
@@ -34,7 +35,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/Hurriyati-Foundation' }
+      { icon: 'github', link: 'https://github.com/Hurriyati-Foundation/hurriyati-foundation.github.io' }
     ]
   }
 })

@@ -6,6 +6,9 @@ hero:
   name: "Hurryati"
   text: ""
   tagline: A list for Muslim-owned alternatives for everyday apps and websites.
+  image:
+    src: /logo.png
+    alt: Hurryati
   actions:
     - theme: brand
       text: Why is this important?
