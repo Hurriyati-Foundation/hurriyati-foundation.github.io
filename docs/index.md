@@ -22,9 +22,9 @@ hero:
 
 features:
   - title: Everyday App Alternatives
+    link: /apps
     details: Safer, Muslim-owned apps that respect your privacy and values.
   - title: Islamic Apps
+    link: /apps#islam
     details: Safe Apps for Islamic Prayer Times, Qibla, Qur'an, etc.
-  - title: Online Stores
-    details: Stores and Brands by Muslims for Muslims
 ---
