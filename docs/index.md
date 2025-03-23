@@ -25,4 +25,3 @@ features:
   - title: Online Stores
     details: Stores and Brands by Muslims for Muslims
 ---
-
