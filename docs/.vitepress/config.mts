@@ -4,6 +4,8 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Hurryati",
   description: "A list for Muslim-owned alternatives for everyday apps and websites.",
+  head: [['link', { rel: 'icon', href: '/logo.ico' }]],
+
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: '/logo.ico',
