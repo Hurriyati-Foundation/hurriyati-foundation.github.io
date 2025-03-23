@@ -3,12 +3,12 @@
 layout: home
 
 hero:
-  name: "Hurryati"
+  name: "Hurriyati"
   text: ""
   tagline: A list for Muslim-owned alternatives for everyday apps and websites.
   image:
     src: /logo.png
-    alt: Hurryati
+    alt: Hurriyati
   actions:
     - theme: brand
       text: Why is this important?

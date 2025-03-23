@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Hurryati",
+  title: "Hurriyati",
   description: "A list for Muslim-owned alternatives for everyday apps and websites.",
   head: [['link', { rel: 'icon', href: '/logo.ico' }]],
 
