@@ -39,5 +39,7 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/Hurriyati-Foundation/hurriyati-foundation.github.io' }
     ]
-  }
+  },
+
+  base: "/hurriyati-foundation.github.io/"
 })
