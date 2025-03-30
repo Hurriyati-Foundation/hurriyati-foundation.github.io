@@ -14,7 +14,7 @@ hero:
       text: Why is this important?
       link: /why
     - theme: alt
-      text: Muslim-Owned Apps
+      text: Ethical Alternatives
       link: /apps
     - theme: alt
       text: Contribute
