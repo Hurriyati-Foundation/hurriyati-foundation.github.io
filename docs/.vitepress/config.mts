@@ -29,6 +29,7 @@ export default defineConfig({
         items: [
           { text: '🕋 Islam', link: '/apps#islam' },
           { text: '💬 Communication', link: '/apps#communication' },
+          { text: '🔧 Everyday Utilities', link: '/apps#everyday-utilites' },
           { text: '🌐 Internet Browsing', link: '/apps#internet-browsing' },
           { text: '🌿 Health and Wellness', link: '/apps#health-and-wellness' },
         ],
