@@ -12,6 +12,7 @@
  - ⭐🤝🔒 [Element](https://element.io/download) - Secure Messenger for Communities (Best Discord alternative)
  - 🤝🔒 [Threema](https://threema.ch/) - Secure Instant Messenger (Paid)
  - 🤝🔒 [SimpleX-Chat](https://simplex.chat/) - Fully Anonymous Encrypted Messenger (For Advanced Users)
+ - 🤝🔒 [Briar](https://briarproject.org/) - Anonymous Decentralized Messenger (For Advanced Users)
 
 ## Internet Browsing
  #### Browsers
