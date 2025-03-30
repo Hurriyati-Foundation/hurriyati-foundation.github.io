@@ -11,7 +11,7 @@ export default defineConfig({
     logo: '/logo.ico',
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Site Guide', link: '/Guide' }
+      { text: 'Site Guide', link: '/guide' }
     ],
 
     sidebar: [
