@@ -9,7 +9,7 @@
  - 🕋🤝 [Qadaa](https://github.com/muslimpack/Qadaa/blob/main/README.md) - Quran and Prayer Times + Qibla (Arabic only)
 
 ## Communication
- #### Instant Messenger
+ ### Instant Messenger
  - ⭐🤝🔒 [Signal](https://simplex.chat/) - Secure Instant Messenger (Best WhatsApp alternative)
  - ⭐🤝🔒 [Element](https://element.io/download) - Secure Messenger for Communities (Best Discord alternative)
  - 🤝🔒 [Threema](https://threema.ch/) - Secure Instant Messenger (Paid)
@@ -21,11 +21,11 @@
  - 🤝 [Fossify](https://www.fossify.org/) - Open Source alternatives to default android apps with tracking removed
 
 ## Internet Browsing
- #### Browsers
+ ### Browsers
  - 🤝 [Firefox](https://www.mozilla.org/en-US/firefox/new/)
  - 🤝 [Brave](https://www.mozilla.org/en-US/firefox/new/)
  - 🤝 [Librewolf](https://librewolf.net/)
- #### Extensions
+ ### Extensions
  - 🕋🤝 [Haramblur](https://linktr.ee/haramblur) - Censor haram content while browsing the internet
 
 ## Health and Wellness
