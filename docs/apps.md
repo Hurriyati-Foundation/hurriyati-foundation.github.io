@@ -22,7 +22,6 @@
 
 ## Internet Browsing
  #### Browsers
- - 🕋 [Kahf Browser](https://www.kahfbrowser.com/)
  - 🤝 [Firefox](https://www.mozilla.org/en-US/firefox/new/)
  - 🤝 [Brave](https://www.mozilla.org/en-US/firefox/new/)
  - 🤝 [Librewolf](https://librewolf.net/)
