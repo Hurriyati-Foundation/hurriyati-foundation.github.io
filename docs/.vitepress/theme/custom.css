@@ -1,0 +1,95 @@
+html[lang="ar"], html[lang="fa"], html[lang="ur"], html[lang="ps"], html[lang="ku"], html[lang="sd"], html[lang="he"] {
+  .outline-title {
+    visibility: hidden; 
+    direction: rtl; 
+  }
+
+  .outline-title::after {
+    visibility: visible;
+    direction: rtl; 
+    text-align: right; 
+    display: block; 
+  }
+
+  .VPDoc.has-sidebar .container {
+    flex-direction: row-reverse;
+  }
+
+  .VPSidebar {
+    border-left: none;
+    border-right: 1px solid var(--vp-c-divider);
+  }
+
+  .hero .tagline, .tagline {
+    direction: rtl !important;
+    text-align: right !important;
+  }
+}
+
+.VPNav {
+  direction: ltr;
+}
+
+.VPNavBar, 
+.VPNavBarMenu, 
+.VPNavBarTitle, 
+.VPNavBarSearch {
+  direction: ltr; /* Force navbar elements to be LTR */
+  text-align: left; /* Align navbar items to the left */
+}
+
+html[lang="ar"] .outline-title::after {
+  content: "على هذه الصفحة"; 
+  visibility: visible;
+  direction: rtl;
+  text-align: right;
+  display: block;
+}
+
+html[lang="fa"] .outline-title::after {
+  content: "در این صفحه"; 
+  visibility: visible;
+  direction: rtl;
+  text-align: right;
+  display: block;
+}
+
+html[lang="ur"] .outline-title::after {
+  content: "صفحے پر"; 
+  visibility: visible;
+  direction: rtl;
+  text-align: right;
+  display: block;
+}
+
+html[lang="ps"] .outline-title::after {
+  content: "په دې صفحه"; 
+  visibility: visible;
+  direction: rtl;
+  text-align: right;
+  display: block;
+}
+
+html[lang="ku"][dir="ltr"] .outline-title::after {
+  content: "li ser vê rûpelê"; 
+  visibility: visible;
+  direction: ltr; 
+  text-align: left; 
+  display: block;
+}
+
+html[lang="sd"] .outline-title::after {
+  content: "هن صفحي تي"; 
+  visibility: visible;
+  direction: rtl;
+  text-align: right;
+  display: block;
+}
+
+html[lang="he"] .outline-title::after {
+  content: "בעמוד הזה"; 
+  visibility: visible;
+  direction: rtl;
+  text-align: right;
+  display: block;
+}
