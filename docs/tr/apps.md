@@ -35,7 +35,7 @@
 #### Uzantılar  
 - 🕋🤝 [Haramblur](https://linktr.ee/haramblur) - İnternette gezinirken haram içerikleri sansürle  
 - 🤝 [uBlock Origin](https://ublockorigin.com/) - Güvenli Reklam Engelleyici  
-- 🕋🤝 [uBlock Origin](https://ayahaday.com/) - Günlük Ayet (Sadece Chromium tabanlı tarayıcılar)  
+- 🕋🤝 [Ayah A Day](https://ayahaday.com/) - Günlük Ayet (Sadece Chromium tabanlı tarayıcılar)  
 
 ## Sağlık ve Zindelik  
 - 🤝 [BogenTrack](https://bogentrack.app/) - Okçuluk Takip Uygulaması  

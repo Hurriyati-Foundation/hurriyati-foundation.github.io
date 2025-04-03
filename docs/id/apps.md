@@ -35,7 +35,7 @@
 #### Ekstensi  
 - 🕋🤝 [Haramblur](https://linktr.ee/haramblur) - Sensor konten haram saat berselancar di internet  
 - 🤝 [uBlock Origin](https://ublockorigin.com/) - Pemblokir Iklan Aman  
-- 🕋🤝 [uBlock Origin](https://ayahaday.com/) - Ayat Harian (Hanya untuk Peramban berbasis Chromium)  
+- 🕋🤝 [Ayah A Day](https://ayahaday.com/) - Ayat Harian (Hanya untuk Peramban berbasis Chromium)  
 
 ## Kesehatan dan Kebugaran  
 - 🤝 [BogenTrack](https://bogentrack.app/) - Pelacak Panahan  
