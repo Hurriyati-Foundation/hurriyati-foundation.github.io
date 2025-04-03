@@ -1,4 +1,4 @@
-Mengapa ini penting?
+# Mengapa ini penting?
 
 Pada tahun 2025, Anda, keluarga Anda, dan orang-orang di sekitar Anda menghadapi masalah privasi. Banyak yang menggunakan aplikasi sumber tertutup yang dimiliki oleh non-Muslim. Dengan melakukan ini, Anda memberikan kendali kepada perusahaan-perusahaan ini atas keamanan dan pengaruh terhadap Ummah. Bahkan saat berbicara dengan keluarga Anda, Anda mungkin menggunakan aplikasi yang dimiliki oleh orang-orang yang bertentangan dengan nilai-nilai Islam, dan perusahaan-perusahaan ini mungkin menggunakan data Anda untuk merugikan umat Islam. Dalam beberapa kasus, aplikasi-aplikasi ini bahkan digunakan untuk membahayakan nyawa.
 
