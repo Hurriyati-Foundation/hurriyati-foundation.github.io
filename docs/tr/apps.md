@@ -11,7 +11,7 @@
 
 ## İletişim  
 #### Anlık Mesajlaşma  
-- ⭐🤝🔒 [Signal](https://simplex.chat/) - Güvenli Anlık Mesajlaşma (**En iyi WhatsApp alternatifi**)  
+- ⭐🤝🔒 [Signal](https://signal.org/) - Güvenli Anlık Mesajlaşma (**En iyi WhatsApp alternatifi**)  
 - ⭐🤝🔒 [Element](https://element.io/download) - Topluluklar için Güvenli Mesajlaşma (**En iyi Discord alternatifi**)  
 - 🤝🔒 [Threema](https://threema.ch/) - Güvenli Anlık Mesajlaşma (Ücretli)  
 - 🤝🔒 [SimpleX-Chat](https://simplex.chat/) - Tamamen Anonim Şifreli Mesajlaşma (İleri Düzey Kullanıcılar İçin)  

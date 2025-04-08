@@ -11,7 +11,7 @@
 
 ## Communication
  #### Instant Messenger
- - ⭐🤝🔒 [Signal](https://simplex.chat/) - Secure Instant Messenger (**Best WhatsApp alternative**)
+ - ⭐🤝🔒 [Signal](https://signal.org/) - Secure Instant Messenger (**Best WhatsApp alternative**)
  - ⭐🤝🔒 [Element](https://element.io/download) - Secure Messenger for Communities (**Best Discord alternative**)
  - 🤝🔒 [Threema](https://threema.ch/) - Secure Instant Messenger (Paid)
  - 🤝🔒 [SimpleX-Chat](https://simplex.chat/) - Fully Anonymous Encrypted Messenger (For Advanced Users)

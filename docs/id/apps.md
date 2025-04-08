@@ -11,7 +11,7 @@
 
 ## Komunikasi  
 #### Pesan Instan  
-- ⭐🤝🔒 [Signal](https://simplex.chat/) - Aplikasi Pesan Instan Aman (**Alternatif terbaik untuk WhatsApp**)  
+- ⭐🤝🔒 [Signal](https://signal.org/) - Aplikasi Pesan Instan Aman (**Alternatif terbaik untuk WhatsApp**)  
 - ⭐🤝🔒 [Element](https://element.io/download) - Messenger Aman untuk Komunitas (**Alternatif terbaik untuk Discord**)  
 - 🤝🔒 [Threema](https://threema.ch/) - Aplikasi Pesan Instan Aman (Berbayar)  
 - 🤝🔒 [SimpleX-Chat](https://simplex.chat/) - Messenger Terenkripsi Sepenuhnya Anonim (Untuk Pengguna Lanjutan)  
