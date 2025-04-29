@@ -68,7 +68,7 @@ export default defineConfig({
           items: [
             { text: '🕋 Islam', link: '/apps#islam' },
             { text: '💬 Communication', link: '/apps#communication' },
-            { text: '🔧 Everyday Utilities', link: '/apps#everyday-utilites' },
+            { text: '🔧 Everyday Utilities', link: '/apps#everyday-utilities' },
             { text: '🌐 Internet Browsing', link: '/apps#internet-browsing' },
             { text: '🌿 Health and Wellness', link: '/apps#health-and-wellness' },
           ],
@@ -89,7 +89,7 @@ export default defineConfig({
           items: [
             { text: '🕋 الإسلام', link: '/ar/apps#islam' },
             { text: '💬 التواصل', link: '/ar/apps#communication' },
-            { text: '🔧 الأدوات اليومية', link: '/ar/apps#everyday-utilites' },
+            { text: '🔧 الأدوات اليومية', link: '/ar/apps#everyday-utilities' },
             { text: '🌐 تصفح الإنترنت', link: '/ar/apps#internet-browsing' },
             { text: '🌿 الصحة واللياقة', link: '/ar/apps#health-and-wellness' },
           ],
@@ -110,7 +110,7 @@ export default defineConfig({
           items: [
             { text: '🕋 İslam', link: '/tr/apps#islam' },
             { text: '💬 İletişim', link: '/tr/apps#communication' },
-            { text: '🔧 Günlük Araçlar', link: '/tr/apps#everyday-utilites' },
+            { text: '🔧 Günlük Araçlar', link: '/tr/apps#everyday-utilities' },
             { text: '🌐 İnternet Tarayıcıları', link: '/tr/apps#internet-browsing' },
             { text: '🌿 Sağlık ve Wellness', link: '/tr/apps#health-and-wellness' },
           ],
@@ -131,7 +131,7 @@ export default defineConfig({
           items: [
             { text: '🕋 Islam', link: '/id/apps#islam' },
             { text: '💬 Komunikasi', link: '/id/apps#communication' },
-            { text: '🔧 Utilitas Sehari-hari', link: '/id/apps#everyday-utilites' },
+            { text: '🔧 Utilitas Sehari-hari', link: '/id/apps#everyday-utilities' },
             { text: '🌐 Penjelajahan Internet', link: '/id/apps#internet-browsing' },
             { text: '🌿 Kesehatan dan Kebugaran', link: '/id/apps#health-and-wellness' },
           ],
