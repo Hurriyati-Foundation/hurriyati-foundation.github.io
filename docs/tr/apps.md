@@ -34,8 +34,8 @@
 - 🤝 [Librewolf](https://librewolf.net/)  
 #### Uzantılar  
 - 🕋🤝 [Haramblur](https://linktr.ee/haramblur) - İnternette gezinirken haram içerikleri sansürle  
-- 🤝 [uBlock Origin](https://ublockorigin.com/) - Güvenli Reklam Engelleyici  
 - 🕋🤝 [Ayah A Day](https://ayahaday.com/) - Günlük Ayet (Sadece Chromium tabanlı tarayıcılar)  
+- 🤝 [uBlock Origin](https://ublockorigin.com/) - Güvenli Reklam Engelleyici  
 
 ## Sağlık ve Zindelik  
 - 🤝 [BogenTrack](https://bogentrack.app/) - Okçuluk Takip Uygulaması  

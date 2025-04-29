@@ -34,8 +34,8 @@
  - 🤝 [Librewolf](https://librewolf.net/)
  #### Extensions
  - 🕋🤝 [Haramblur](https://linktr.ee/haramblur) - Censor haram content while browsing the internet
- - 🤝 [uBlock Origin](https://ublockorigin.com/) - Safe Adblocker
  - 🕋🤝 [Ayah A Day](https://ayahaday.com/) - Ayah A Day (Chromium-based Browsers Only)
+ - 🤝 [uBlock Origin](https://ublockorigin.com/) - Safe Adblocker
 
 ## Health and Wellness
  - 🤝 [BogenTrack](https://bogentrack.app/) - Archery Tracker

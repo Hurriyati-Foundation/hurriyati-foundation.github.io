@@ -34,8 +34,8 @@
 - 🤝 [Librewolf](https://librewolf.net/)  
 #### Ekstensi  
 - 🕋🤝 [Haramblur](https://linktr.ee/haramblur) - Sensor konten haram saat berselancar di internet  
-- 🤝 [uBlock Origin](https://ublockorigin.com/) - Pemblokir Iklan Aman  
 - 🕋🤝 [Ayah A Day](https://ayahaday.com/) - Ayat Harian (Hanya untuk Peramban berbasis Chromium)  
+- 🤝 [uBlock Origin](https://ublockorigin.com/) - Pemblokir Iklan Aman  
 
 ## Kesehatan dan Kebugaran  
 - 🤝 [BogenTrack](https://bogentrack.app/) - Pelacak Panahan  
